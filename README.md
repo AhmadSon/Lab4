@@ -1,5 +1,6 @@
 # Latihan List
 ## Tugas Latihan
+![Gambar 0](Image/soal.PNG)
 - Buat sebuah list sebanyak 5 elemen dengan nilai bebas
 ```bash
 a = [10, 11, 13, 16, 17]
@@ -61,6 +62,6 @@ output ![Gambar 09](Image/hasil9.PNG)<p>
 
 ### full my program
 ![Gambar 10](Image/program.PNG)<p>
-- Output
+- Output<p>
 ![Gambar 11](Image/Hasil.PNG)<p>
 # END
