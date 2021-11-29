@@ -1,4 +1,5 @@
 # Latihan List
+klik disini untuk melihat [tugas pratikum](https://github.com/AhmadSon/Lab5.git)<p>
 ## Tugas Latihan
 ![Gambar 0](Image/soal.PNG)
 - Buat sebuah list sebanyak 5 elemen dengan nilai bebas
