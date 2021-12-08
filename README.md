@@ -1,11 +1,11 @@
 # Owner
-_________________________
-| Nama  | Ahmad Syukron |
-| NIM   | 312110056     |
-| Kelas | TI.21.A.1     |
+_________________________<p>
+| Nama  | Ahmad Syukron |<p>
+| NIM   | 312110056     |<p>
+| Kelas | TI.21.A.1     |<p>
 
 # List Python
-[Pratikum](## Tugas Pratikum)
+
 ## Tugas Latihan
 ![Gambar 0](Image/soal.PNG)
 - Buat sebuah list sebanyak 5 elemen dengan nilai bebas
