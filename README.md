@@ -8,9 +8,9 @@
 <body>
     <table border="1">
         <tr>
-            <th> bgcolor="#000FF">Nama</th>
-            <th> bgcolor="#000FF">NIM</th>
-            <th> bgcolor="#000FF">Kelas</th>
+            <th bgcolor="#000FF">Nama</th>
+            <th bgcolor="#000FF">NIM</th>
+            <th bgcolor="#000FF">Kelas</th>
         </tr>
         <tr>
             <td>Ahmad Syukron</td>
